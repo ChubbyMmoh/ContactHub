@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Your Contact Book</h1>
+    <p>Manage your contacts and users with ease.</p>
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">View Contacts</h2>
+                    <p class="card-text">Browse your contacts and see all the details at a glance.</p>
+                    <a href="/Contact/ContactList" class="btn btn-primary">View Contacts</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">Add a New Contact</h2>
+                    <p class="card-text">Add a new contact to your address book.</p>
+                    <a href="/Contact/Create" class="btn btn-success">Add a Contact</a>
+                </div>
+            </div>
+        </div>
+        @* <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">View Users</h2>
+                    <p class="card-text">Browse users and see all the details at a glance.</p>
+                    <a href="/Contact/ContactList" class="btn btn-success">View Users</a>
+                </div>
+            </div>
+        </div> *@
+
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title">Search Contact</h2>
+                    <p class="card-text">Search for users by name or other criteria.</p>
+                    <form action="/Contact/SearchContacts" method="get">
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <button type="submit" class="btn btn-primary">Search Users</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+

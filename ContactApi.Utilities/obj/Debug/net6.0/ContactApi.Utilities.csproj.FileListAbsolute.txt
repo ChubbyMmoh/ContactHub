@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\bin\Debug\net6.0\ContactApi.Utilities.deps.json
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\bin\Debug\net6.0\ContactApi.Utilities.dll
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\bin\Debug\net6.0\ContactApi.Utilities.pdb
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\obj\Debug\net6.0\ContactApi.Utilities.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\obj\Debug\net6.0\ContactApi.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\obj\Debug\net6.0\ContactApi.Utilities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\obj\Debug\net6.0\ContactApi.Utilities.AssemblyInfo.cs
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\obj\Debug\net6.0\ContactApi.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\obj\Debug\net6.0\ContactApi.Utilities.dll
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\obj\Debug\net6.0\refint\ContactApi.Utilities.dll
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\obj\Debug\net6.0\ContactApi.Utilities.pdb
+C:\Users\user\Desktop\week-7-task-KINGKASPEV\ContactApi\ContactApi.Utilities\obj\Debug\net6.0\ref\ContactApi.Utilities.dll

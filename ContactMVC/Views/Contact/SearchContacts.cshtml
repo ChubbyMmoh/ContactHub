@@ -1,0 +1,47 @@
+﻿@model List<ContactApi.Model.DTO.ContactResponseDTO>
+
+@{
+	ViewData["Title"] = "Search Contacts";
+}
+
+<div class="container">
+	<h1>Search Contacts</h1>
+
+	<form name="searchForm" method="get">
+		<div class="form-group">
+			<label for="searchTerm">Search Term:</label>
+			<input type="text" class="form-control" name="searchTerm" id="searchTerm" placeholder="Enter search term" required />
+		</div>
+		<button type="submit" class="btn btn-primary mt-2">Search</button>
+	</form>
+
+	@if (Model != null && Model.Any())
+	{
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th scope="col">ID</th>
+					<th scope="col">Full Name</th>
+					<th scope="col">Email</th>
+					<th scope="col">Phone</th>
+					<th scope="col">Address</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var contact in Model)
+				{
+					<tr>
+						<td>@contact.Id</td>
+						<td>@contact.FullName</td>
+						<td>@contact.Email</td>
+						<td>@contact.Phone</td>
+						<td>@contact.Address</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	}
+	else
+	{
+		<p>No contacts found.</p>
+	}

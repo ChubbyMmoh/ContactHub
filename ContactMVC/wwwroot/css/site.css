@@ -1,0 +1,51 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.app-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #c0c0c0; /* Light gray color */
+}
+
+/* Navbar styling */
+.navbar {
+    background-color: #343a40; /* Dark gray background color for the navbar */
+}
+
+/* Footer styling */
+.footer {
+    background-color: #343a40; /* Dark gray background color for the footer */
+    color: #fff; /* Text color in the footer */
+    text-align: center;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #f5f5f5; /* Light gray (ash) background color */
+    margin-bottom: 60px;
+}
+.my-form {
+    margin-bottom: 20px; /* Add margin to the bottom of the form */
+}
+.navbar .admin-link {
+    color: #c0c0c0 !important;
+}
+
+
+
+

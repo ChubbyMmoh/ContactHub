@@ -1,0 +1,67 @@
+﻿@model IEnumerable<ContactApi.Model.Contact>
+
+@{
+    ViewData["Title"] = "ContactList";
+}
+
+<h1>Users</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New User</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Full Name
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Phone
+            </th>
+            <th>
+                Address
+            </th>
+            <th>
+                Photo
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    <img src="@item.PhotoUrl" alt="User Photo" />
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
