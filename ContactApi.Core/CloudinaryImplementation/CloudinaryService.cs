@@ -1,6 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-using CloudinaryDotNet;
+﻿using CloudinaryDotNet;
 using CloudinaryDotNet.Actions;
 using ContactApi.Core.Interface;
 using ContactApi.Model;

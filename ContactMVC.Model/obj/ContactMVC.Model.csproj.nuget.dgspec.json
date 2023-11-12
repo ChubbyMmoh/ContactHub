@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactMVC.Model\\ContactMVC.Model.csproj": {}
+    "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactMVC.Model\\ContactMVC.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactMVC.Model\\ContactMVC.Model.csproj": {
+    "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactMVC.Model\\ContactMVC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactMVC.Model\\ContactMVC.Model.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactMVC.Model\\ContactMVC.Model.csproj",
         "projectName": "ContactMVC.Model",
-        "projectPath": "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactMVC.Model\\ContactMVC.Model.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactMVC.Model\\ContactMVC.Model.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactMVC.Model\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactMVC.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

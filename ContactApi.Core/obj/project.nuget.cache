@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "akCu4a9HvnXxBIxz8mE+P1XfgdAT7520GMR9neC+1mvN8nI9abKKqrF08eFcLgMt2I8DX4CLtrD0UNk3uub75g==",
+  "dgSpecHash": "wuaVlDlssCU3czQOOJs9abmyKP4UoxfhPP0fg/Ak8IWfOu2RCWiLgP+TYQqc+1N8qh65S38DblM6+9xHHAfyyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactApi.Core\\ContactApi.Core.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactApi.Core\\ContactApi.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

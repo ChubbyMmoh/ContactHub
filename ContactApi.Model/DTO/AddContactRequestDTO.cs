@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ContactApi.Model.DTO
+﻿namespace ContactApi.Model.DTO
 {
     public class AddContactRequestDTO
     {

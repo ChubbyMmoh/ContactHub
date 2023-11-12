@@ -5869,11 +5869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactApi.Core\\ContactApi.Core.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactApi.Core\\ContactApi.Core.csproj",
       "projectName": "ContactApi.Core",
-      "projectPath": "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactApi.Core\\ContactApi.Core.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactApi.Core\\ContactApi.Core.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactApi.Core\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactApi.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5895,8 +5895,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactApi.Model\\ContactApi.Model.csproj": {
-              "projectPath": "C:\\Users\\user\\Downloads\\ContactApi\\week-8-task-ChubbyMmoh\\ContactApi\\ContactApi.Model\\ContactApi.Model.csproj"
+            "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactApi.Model\\ContactApi.Model.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Portfolio\\ContactApi\\ContactApi.Model\\ContactApi.Model.csproj"
             }
           }
         }

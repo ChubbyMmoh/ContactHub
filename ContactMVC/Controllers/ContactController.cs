@@ -3,12 +3,11 @@ using ContactApi.Model.DTO;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.WebUtilities;
 using Newtonsoft.Json;
-using System.Drawing;
 using System.Text;
 
 namespace ContactBookMVC.Controllers
 {
-	public class ContactController : Controller
+    public class ContactController : Controller
 	{
         string baseAddress = string.Empty;
 
